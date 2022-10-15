@@ -9,7 +9,7 @@ EMAIL;type=INTERNET;type=WORK;type=pref:kevin.adams@tsu.edu
 TEL;type=WORK;type=VOICE:+1 713 313 7408
 TEL;type=MOBILE;type=VOICE:+1 832 600 0084
 TEL;type=FAX;type=VOICE:+1 713 313 7259
-item1.ADR;type=WORK;type=pref:;;MLK Humanities Center \Room 239;;;\3100 Cleburne St.\nHouston\, TX 77004
+item1.ADR;type=WORK;type=pref:;;3100 Cleburne St.\MLK Humanities Center \Room 239;;;\3100 Cleburne St.\nHouston\, TX 77004
 item1.X-ABADR:sg
 item2.URL;type=pref:tsu.edu
 item2.X-ABLabel:_$!<HomePage>!$_
